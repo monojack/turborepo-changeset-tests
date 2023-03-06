@@ -1,5 +1,11 @@
 # ui
 
+## 1.0.1
+
+### Patch Changes
+
+- 34da3cd: patch bump
+
 ## 1.0.0
 
 ### Major Changes
